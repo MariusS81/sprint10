@@ -1,0 +1,64 @@
+.head{
+    text-align: center;border: 1px solid  #BCC4BF;
+}
+
+.table{
+    border: 1px solid;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.right{
+    right: 20px;
+    position: absolute;
+    border: 10px;
+    top: 15px;
+}
+
+.main{
+    padding: 30px;
+}
+.container{
+    border: 1px solid;
+    color: white;
+    background-color: blue;
+}
+
+.display{
+    display: flex;
+}
+
+.dimension{
+    width: 20%; border-right: 1px solid #BCC4BF;padding: 30px;
+}
+
+.principal{
+    border: 1px solid;
+    color: blue;
+    border-radius: 5px;
+    padding: px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.italic{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}  
+
+#myform {
+    position: absolute;
+    left: 20px; /* Poziționează elementul la 20px de marginea stângă */
+    top: 15px; /* Poziționează elementul la 15px de marginea superioară */
+    width: 150px; /* Ajustează lățimea elementului */
+    height: 70px; /* Ajustează înălțimea elementului */
+    font-size: 15px;
+    margin-top: 0px;
+}
